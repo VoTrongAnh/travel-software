@@ -1,0 +1,567 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.5.1\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4E6C21A8-8A0C-4B51-847A-A2F9D438EFB0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Licensing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.Licensing.6.0.4\lib\net472\Bunifu.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms, Version=0.0.0.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.7.2.0\lib\net472\Bunifu.UI.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.5.1\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.5.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.Core, Version=2.1.7.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.Core.2.1.7\lib\net472\GMap.NET.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsForms, Version=2.1.7.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.WinForms.2.1.7\lib\net472\GMap.NET.WindowsForms.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsPresentation, Version=2.1.7.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.WinPresentation.2.1.7\lib\net472\GMap.NET.WindowsPresentation.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.WinForms, Version=0.9.7.1, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.WinForms.0.9.7.1\lib\net45\LiveCharts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.Wpf.0.9.7\lib\net45\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.7.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="RestSharp, Version=110.2.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.110.2.0\lib\net471\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.CodeDom, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.CodeDom.8.0.0\lib\net462\System.CodeDom.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Data.SqlClient, Version=4.6.1.6, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SqlClient.4.8.6\lib\net461\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite, Version=1.0.115.5, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.115.5, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.115.5\lib\net46\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.115.5, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.115.5\lib\net46\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Device" />
+    <Reference Include="System.IdentityModel" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.Security.Principal.Windows, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Principal.Windows.5.0.0\lib\net461\System.Security.Principal.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Text.Encodings.Web, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.7.0.0\lib\net462\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=7.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.7.0.2\lib\net462\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DirectionsResponse.cs" />
+    <Compile Include="DangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangKy.Designer.cs">
+      <DependentUpon>DangKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DuongDi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DuongDi.Designer.cs">
+      <DependentUpon>DuongDi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhapLaiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhapLaiMatKhau.Designer.cs">
+      <DependentUpon>NhapLaiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SuaDanhGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuaDanhGia.Designer.cs">
+      <DependentUpon>SuaDanhGia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs" />
+    <Compile Include="UserControl_MienBac.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_MienBac.Designer.cs">
+      <DependentUpon>UserControl_MienBac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_MienTrung.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_MienTrung.Designer.cs">
+      <DependentUpon>UserControl_MienTrung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_MienNam.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_MienNam.Designer.cs">
+      <DependentUpon>UserControl_MienNam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_QuangLyDanhGia_Sua_Xoa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_QuangLyDanhGia_Sua_Xoa.Designer.cs">
+      <DependentUpon>UserControl_QuangLyDanhGia_Sua_Xoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_ThongKe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_ThongKe.Designer.cs">
+      <DependentUpon>UserControl_ThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_QuanLyDanhGia_Admin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_QuanLyDanhGia_Admin.Designer.cs">
+      <DependentUpon>UserControl_QuanLyDanhGia_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_GoiY.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_GoiY.Designer.cs">
+      <DependentUpon>UserControl_GoiY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_TrangChu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_TrangChu.Designer.cs">
+      <DependentUpon>UserControl_TrangChu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XemDiaDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XemDiaDiem.Designer.cs">
+      <DependentUpon>XemDiaDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XemDanhGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XemDanhGia.Designer.cs">
+      <DependentUpon>XemDanhGia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VietDanhGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VietDanhGia.Designer.cs">
+      <DependentUpon>VietDanhGia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoiPhucMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoiPhucMatKhau.Designer.cs">
+      <DependentUpon>KhoiPhucMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Province.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="yeuCauHoTro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yeuCauHoTro.Designer.cs">
+      <DependentUpon>yeuCauHoTro.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DangKy.resx">
+      <DependentUpon>DangKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DuongDi.resx">
+      <DependentUpon>DuongDi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhapLaiMatKhau.resx">
+      <DependentUpon>NhapLaiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuaDanhGia.resx">
+      <DependentUpon>SuaDanhGia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_MienBac.resx">
+      <DependentUpon>UserControl_MienBac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_MienTrung.resx">
+      <DependentUpon>UserControl_MienTrung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_MienNam.resx">
+      <DependentUpon>UserControl_MienNam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_QuangLyDanhGia_Sua_Xoa.resx">
+      <DependentUpon>UserControl_QuangLyDanhGia_Sua_Xoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_ThongKe.resx">
+      <DependentUpon>UserControl_ThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_GoiY.resx">
+      <DependentUpon>UserControl_GoiY.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_QuanLyDanhGia_Admin.resx">
+      <DependentUpon>UserControl_QuanLyDanhGia_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_TrangChu.resx">
+      <DependentUpon>UserControl_TrangChu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XemDiaDiem.resx">
+      <DependentUpon>XemDiaDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XemDanhGia.resx">
+      <DependentUpon>XemDanhGia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VietDanhGia.resx">
+      <DependentUpon>VietDanhGia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoiPhucMatKhau.resx">
+      <DependentUpon>KhoiPhucMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yeuCauHoTro.resx">
+      <DependentUpon>yeuCauHoTro.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8cb9404b96db81960ac97c4409f79f05.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\75ea05b6751f98df69a7eb707ebec32e.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2bd7bb8998446eb5bab856ef640101de.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c2755f874e9053889e2a528232a41c86.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c2755f874e9053889e2a528232a41c86 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c2755f874e9053889e2a528232a41c86 %281%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wp4768358.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Temple_of_Literature,_Hanoi_%2825708069204%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %285%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NoImage.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\z6047016673817_db13f383e17499a0803dea41b11f8941.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\du-lich-dien-bien-16643779918891566717797-1664847609861-16648476099411027975370.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.7.du_lich_Lai_Chau_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R %285%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mua-lua-chin-mu-cang-chai.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mua-lua-chin-mu-cang-chai1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\du-lich-lac-son-hoa-binh-co-gi-hap-dan-kham-pha-ngay-202303142300169058.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\khu-di-tich-atk-dinh-hoa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phai-ve.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quang-ninh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R %286%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LongCocDSCF7605.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\du-lich-vinh-yen1-1680145513.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Du-lich-Viet-Nam-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R %287%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kinh-nghiem-du-lich-cat-ba_1661328677.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %286%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dia-diem-du-lich-thai-binh-1-min.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R %288%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R %289%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %287%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R %2810%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kinh-nghiem-chinh-phuc-thac-may-thanh-hoa-ban-khong-nen-bo-lo-1681065375.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Phuong_tinh_ho2_3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %288%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dia-diem-du-lich-quang-binh-1-1771.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10-dia-diem-du-lich-quang-tri-dang-di-nhat-202206071023104118.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\du-lich-hue8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R %2811%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R %2812%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tron-bo-cam-nang-du-lich-quang-ngai-cac-dia-diem-checkin-202202221103450039.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R %2813%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R %2814%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %289%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R %2815%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %2810%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KON-TUM-CITY.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R %2816%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thacDakLak02-1650454521-7409-1650455161.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R %2817%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kinh-nghiem-du-lich-bao-loc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %2811%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tuong_phat_ba_quan_am_nui_ba_den.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dia-diem-du-lich-Binh-Duong-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinh-anh-thanh-pho-ho-chi-minh-cuc-dep_031031379.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R %2818%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tien-giang-co-gi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Con-Quy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\56841_tra vinh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R %2819%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %2812%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %2813%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giai-1-cho-noi-cr-large.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top-10-dia-diem-hap-dan-khi-di-du-lich-tai-hau-giang-202107081212054374.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diem-du-lich-soc-trang-1024x614.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP %2814%29.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.5.1\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.5.1\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets" Condition="Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" />
+  <Import Project="..\packages\EntityFramework.6.5.1\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.targets')" />
+</Project>

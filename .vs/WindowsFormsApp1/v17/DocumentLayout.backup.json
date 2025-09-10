@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Documents\\pmdl\\pmdl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6C21A8-8A0C-4B51-847A-A2F9D438EFB0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\LENOVO\\Documents\\pmdl\\pmdl\\windowsformsapp1\\usercontrol_goiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6C21A8-8A0C-4B51-847A-A2F9D438EFB0}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\usercontrol_goiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl_GoiY.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\pmdl\\pmdl\\WindowsFormsApp1\\UserControl_GoiY.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UserControl_GoiY.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\pmdl\\pmdl\\WindowsFormsApp1\\UserControl_GoiY.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\UserControl_GoiY.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAmwH0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:50:29.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

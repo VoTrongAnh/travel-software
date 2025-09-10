@@ -1,0 +1,667 @@
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DangKy.resources
+C:\Users\LENOVO\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DangKy.resources
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TrangChu.resources
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemDiaDiem.resources
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemDanhGia.resources
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VietDanhGia.resources
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GoiY.resources
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemThongKe.resources
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TrangChuND.resources
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DiaDiem.resources
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DuongDi.resources
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_TrangChu.resources
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_DiaDiem.resources
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_GoiY.resources
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_ThongKe.resources
+C:\Users\phuc\Documents\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_QuanLyDanhGia.resources
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DangKy.resources
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DuongDi.resources
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DiaDiem.resources
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_ThongKe.resources
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_DiaDiem.resources
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_GoiY.resources
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_QuanLyDanhGia.resources
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_TrangChu.resources
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemDiaDiem.resources
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemDanhGia.resources
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VietDanhGia.resources
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemThongKe.resources
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Truong Thinh\Documents\Zalo Received Files\WindowsFormsApp1 (2) (2)\WindowsFormsApp1 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DangKy.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DuongDi.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DiaDiem.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_ThongKe.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_DiaDiem.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_GoiY.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_QuanLyDanhGia.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_TrangChu.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemDiaDiem.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemDanhGia.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VietDanhGia.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemThongKe.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_MienBac.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_MienTrung.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_MienNam.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DangKy.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DuongDi.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DiaDiem.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_MienBac.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_MienTrung.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_MienNam.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_ThongKe.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_DiaDiem.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_GoiY.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_QuanLyDanhGia.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_TrangChu.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemDiaDiem.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemDanhGia.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VietDanhGia.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemThongKe.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DangKy.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DuongDi.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DiaDiem.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_MienBac.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_MienTrung.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_MienNam.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_ThongKe.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_DiaDiem.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_GoiY.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_QuanLyDanhGia.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_TrangChu.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemDiaDiem.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemDanhGia.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VietDanhGia.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemThongKe.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DangKy.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DuongDi.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DiaDiem.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_MienBac.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_MienTrung.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_MienNam.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_ThongKe.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_DiaDiem.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_GoiY.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_QuanLyDanhGia.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_TrangChu.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemDiaDiem.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemDanhGia.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VietDanhGia.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemThongKe.resources
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\LENOVO\Documents\appDuLich\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NhapLaiMatKhau.resources
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DangKy.resources
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DuongDi.resources
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NhapLaiMatKhau.resources
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_MienBac.resources
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_MienTrung.resources
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_MienNam.resources
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_ThongKe.resources
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_GoiY.resources
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_TrangChu.resources
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemDiaDiem.resources
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemDanhGia.resources
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VietDanhGia.resources
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\RestSharp.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\RestSharp.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_QuanLyDanhGia_Admin.resources
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_QuangLyDanhGia_Sua_Xoa.resources
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SuaDanhGia.resources
+C:\Users\Truong Thinh\source\repos\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yeuCauHoTro.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\RestSharp.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\RestSharp.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DangKy.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DuongDi.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NhapLaiMatKhau.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SuaDanhGia.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_MienBac.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_MienTrung.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_MienNam.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_QuangLyDanhGia_Sua_Xoa.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_ThongKe.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_GoiY.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_QuanLyDanhGia_Admin.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl_TrangChu.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemDiaDiem.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XemDanhGia.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VietDanhGia.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yeuCauHoTro.resources
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LENOVO\Documents\pmdl\pmdl\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

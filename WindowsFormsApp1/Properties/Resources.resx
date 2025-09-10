@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="OIP (9)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OIP (9).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LongCocDSCF7605" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LongCocDSCF7605.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Temple_of_Literature,_Hanoi_(25708069204)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Temple_of_Literature,_Hanoi_(25708069204).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R (11)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R (11).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R (16)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R (16).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mua-lua-chin-mu-cang-chai" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mua-lua-chin-mu-cang-chai.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OIP (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OIP (5).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tron-bo-cam-nang-du-lich-quang-ngai-cac-dia-diem-checkin-202202221103450039" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tron-bo-cam-nang-du-lich-quang-ngai-cac-dia-diem-checkin-202202221103450039.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Phuong_tinh_ho2_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Phuong_tinh_ho2_3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wp4768358" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wp4768358.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R (3).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="7.7.du_lich_Lai_Chau_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7.7.du_lich_Lai_Chau_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mua-lua-chin-mu-cang-chai1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mua-lua-chin-mu-cang-chai1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Du-lich-Viet-Nam-4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Du-lich-Viet-Nam-4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kinh-nghiem-du-lich-cat-ba_1661328677" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kinh-nghiem-du-lich-cat-ba_1661328677.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8cb9404b96db81960ac97c4409f79f05" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8cb9404b96db81960ac97c4409f79f05.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R (18)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R (18).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="56841_tra vinh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\56841_tra vinh.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="khu-di-tich-atk-dinh-hoa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\khu-di-tich-atk-dinh-hoa.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R (17)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R (17).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R (7)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R (7).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2bd7bb8998446eb5bab856ef640101de" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2bd7bb8998446eb5bab856ef640101de.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kinh-nghiem-du-lich-bao-loc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kinh-nghiem-du-lich-bao-loc.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OIP (10)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OIP (10).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R (14)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R (14).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Con-Quy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Con-Quy.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="diem-du-lich-soc-trang-1024x614" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\diem-du-lich-soc-trang-1024x614.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thacDakLak02-1650454521-7409-1650455161" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\thacDakLak02-1650454521-7409-1650455161.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dia-diem-du-lich-quang-binh-1-1771" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dia-diem-du-lich-quang-binh-1-1771.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OIP (13)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OIP (13).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R (19)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R (19).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="du-lich-vinh-yen1-1680145513" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\du-lich-vinh-yen1-1680145513.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="du-lich-dien-bien-16643779918891566717797-1664847609861-16648476099411027975370" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\du-lich-dien-bien-16643779918891566717797-1664847609861-16648476099411027975370.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R (15)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R (15).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="du-lich-lac-son-hoa-binh-co-gi-hap-dan-kham-pha-ngay-202303142300169058" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\du-lich-lac-son-hoa-binh-co-gi-hap-dan-kham-pha-ngay-202303142300169058.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="quang-ninh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\quang-ninh.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="75ea05b6751f98df69a7eb707ebec32e" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\75ea05b6751f98df69a7eb707ebec32e.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OIP (12)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OIP (12).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OIP (11)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OIP (11).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="top-10-dia-diem-hap-dan-khi-di-du-lich-tai-hau-giang-202107081212054374" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top-10-dia-diem-hap-dan-khi-di-du-lich-tai-hau-giang-202107081212054374.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R (12)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R (12).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kinh-nghiem-chinh-phuc-thac-may-thanh-hoa-ban-khong-nen-bo-lo-1681065375" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kinh-nghiem-chinh-phuc-thac-may-thanh-hoa-ban-khong-nen-bo-lo-1681065375.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OIP (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OIP (6).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R (6).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R (5).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OIP (8)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OIP (8).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R (13)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R (13).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KON-TUM-CITY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\KON-TUM-CITY.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NoImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z6047016673817_db13f383e17499a0803dea41b11f8941.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R (10)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R (10).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="c2755f874e9053889e2a528232a41c86 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c2755f874e9053889e2a528232a41c86 (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dia-diem-du-lich-thai-binh-1-min" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dia-diem-du-lich-thai-binh-1-min.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R (4).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OIP (7)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OIP (7).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R (9)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R (9).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="phai-ve" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\phai-ve.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dia-diem-du-lich-Binh-Duong-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dia-diem-du-lich-Binh-Duong-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R (8)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\R (8).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-anh-thanh-pho-ho-chi-minh-cuc-dep_031031379" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-anh-thanh-pho-ho-chi-minh-cuc-dep_031031379.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tuong_phat_ba_quan_am_nui_ba_den" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tuong_phat_ba_quan_am_nui_ba_den.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="giai-1-cho-noi-cr-large" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\giai-1-cho-noi-cr-large.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="du-lich-hue8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\du-lich-hue8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tien-giang-co-gi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tien-giang-co-gi.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="10-dia-diem-du-lich-quang-tri-dang-di-nhat-202206071023104118" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\10-dia-diem-du-lich-quang-tri-dang-di-nhat-202206071023104118.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OIP (14)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OIP (14).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
